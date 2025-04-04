@@ -1,0 +1,9 @@
+gradio
+torch
+diffusers
+transformers
+openai-whisper
+torchaudio
+librosa
+pydub
+opencv-python
